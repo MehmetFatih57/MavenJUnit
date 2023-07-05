@@ -1,0 +1,8 @@
+
+
+                                                    Alert Nedir ?
+
+            Alert uyari veya bilgi mesaji iceren pencere
+js Alert'u nasil handle ederiz ?
+            driver'i switchTo() mehodu ile alert() methodunu kullaranarak gecis yapar, accept() veya dismiss() methodlari ile
+            handle ederiz.
